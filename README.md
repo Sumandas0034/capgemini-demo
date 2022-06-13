@@ -1,3 +1,3 @@
 # capgemini-demo
 ## DESCRIPTION
-HEY there, this is my first gthub repository.
+HEY there, this is my first github repository.
